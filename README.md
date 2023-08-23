@@ -1,1 +1,1 @@
-# Guide-6
+# draw a graph with Matplotlib
